@@ -1,0 +1,5 @@
+Phishing Detection Report
+
+Input:
+Congratulations! You are a lottery winner. Claim now!
+
