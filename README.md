@@ -21,7 +21,11 @@ A Python-based GUI application that detects phishing attempts in emails, SMS, an
 - tldextract
 
 ## 📸 Screenshots
-(Add your screenshots here)
+
+<img width="812" height="718" alt="Screenshot 2026-03-17 153701" src="https://github.com/user-attachments/assets/c14b225b-159f-4a7c-b769-72d34e14bf3b" />
+<img width="811" height="721" alt="Screenshot 2026-03-17 153441" src="https://github.com/user-attachments/assets/375e6faa-1aba-40df-8700-f9b3e9213653" />
+<img width="809" height="718" alt="Screenshot 2026-03-17 153529" src="https://github.com/user-attachments/assets/c04e6832-6ce8-407f-9920-8aed705cf8aa" />
+
 
 ## ▶️ How to Run
 
